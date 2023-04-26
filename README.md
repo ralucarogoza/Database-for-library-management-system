@@ -1,8 +1,8 @@
 # Database-for-library-management-system
 
-It’s a database which store information about *librarians*,
+It’s a database which stores information about *librarians*,
 *books*, *authors*, *publishers*, *genres*, *readers*, *subscriptions*,
-*penalizations* which can be obtain by readers and it is made
+*penalizations* which can be obtained by readers and it is made
 according to certain rules. It was built using SQL.
 The project was continued in 2023 using procedures, functions, cursors and triggers in PL/SQL.
 <br/>
