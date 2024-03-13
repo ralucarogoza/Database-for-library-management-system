@@ -1,9 +1,10 @@
 # Database-for-library-management-system
 
-It’s a database which stores information about *librarians*,
+It’s a database created using Oracle SQL Developer which stores information about *librarians*,
 *books*, *authors*, *publishers*, *genres*, *readers*, *subscriptions*,
-*penalizations* which can be obtained by readers and it is made
-according to certain rules. It was built using SQL.
+*penalizations* which can be obtained by readers and it was made
+according to certain rules. I wrote different queries for different scenarios using SQL.
+<br/>
 The project was continued in 2023 using procedures, functions, cursors and triggers in PL/SQL.
 <br/>
 <br/>
